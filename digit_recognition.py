@@ -1,20 +1,3 @@
-"""
-
-    mnist_video.py
-
-    A simple program that demonstrates recognizing handwritten digits from a webcam using 
-    the mnist dataset. 
-    
-    Uses OpenCV 4.4.0 and TensorFlow 2.2.0.
-
-    Authors:
-
-        Mahesh Venkitachalam
-        Aryan Mahesh 
-        electronut.in
-
-"""
-
 import tensorflow as tf
 import numpy as np
 import os
